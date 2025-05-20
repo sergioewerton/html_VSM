@@ -1,2 +1,7 @@
-# html_VSM
-Criação do um html comun sobre vSM
+# Html_VSM
+Site usando a tecnologia html de simples aplicação para desenvolvimendo de um site simples
+
+#Tecnologia utilizadas
+<i class="fa-brands fa-html5">html</i>
+
+
